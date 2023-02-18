@@ -12,7 +12,6 @@ for(let i = 0;i < fecha.length; i++){
         break;        
     }
 }
-
 for(let i = posOne;i < fecha.length; i++){
     if(fecha.substring(i,i+1)==buscar){
         posTwo=i;
